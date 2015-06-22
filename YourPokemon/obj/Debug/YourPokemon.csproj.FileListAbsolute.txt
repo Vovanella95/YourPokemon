@@ -11,3 +11,4 @@ C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\
 C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon.csproj.GenerateResource.Cache
 C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon.exe
 C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon.pdb
+E:\Files\Pocket Monsters\YourPokemon\bin\Debug\YourPokemon.exe.config
