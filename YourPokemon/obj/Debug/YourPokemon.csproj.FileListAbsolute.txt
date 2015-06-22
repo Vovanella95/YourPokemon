@@ -1,0 +1,13 @@
+c:\users\uladzimir_paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\bin\Debug\YourPokemon.exe.config
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\bin\Debug\YourPokemon.exe
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\bin\Debug\YourPokemon.pdb
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon.csprojResolveAssemblyReference.cache
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\MainWindow.baml
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\MainWindow.g.cs
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\App.g.cs
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon_MarkupCompile.cache
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon.g.resources
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon.Properties.Resources.resources
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon.csproj.GenerateResource.Cache
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon.exe
+C:\Users\Uladzimir_Paliukhovi\documents\visual studio 2013\Projects\YourPokemon\YourPokemon\obj\Debug\YourPokemon.pdb
