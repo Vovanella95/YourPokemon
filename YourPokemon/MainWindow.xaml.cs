@@ -35,9 +35,11 @@ namespace YourPokemon
             {
                 hash += (int)item;
             }
-            hash %= 160;
+            hash %= 151;
+            
 
-            ImageSource.Content = Directory.GetCurrentDirectory() + hash+".jpg";
+            string path = Directory.GetCurrentDirectory()+"\\Pockemons\\" + hash+".jpg";
+            Pockemon.Source = new BitmapImage(new Uri(path));
         }
     }
 }
